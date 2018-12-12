@@ -1,0 +1,5 @@
+package center.wf;
+
+public interface fes {
+
+}

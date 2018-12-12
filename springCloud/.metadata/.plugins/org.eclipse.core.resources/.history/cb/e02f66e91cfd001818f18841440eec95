@@ -1,0 +1,9 @@
+package center.wf;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value = "service-hi1")
+public interface fes {
+	@RequestMapping(value = "/hi",method = RequestMethod.GET)
+	public Object get();
+}

@@ -1,0 +1,5 @@
+package center.wf;
+@FeignClient(value = "service-hi1")
+public interface fes {
+	public Object get(){
+}

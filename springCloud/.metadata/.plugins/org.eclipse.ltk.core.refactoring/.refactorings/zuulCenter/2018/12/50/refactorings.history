@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;zuulCenter&apos;&#x0D;&#x0A;- Original project: &apos;zuulCenter&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     center.wf.fes.java&#x0D;&#x0A;     center.wf.userController.java" description="Delete elements" element1="/src\/main\/java&lt;center.wf{fes.java" element2="/src\/main\/java&lt;center.wf{userController.java" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1544517262514" subPackages="false" version="1.0"/>
+</session>

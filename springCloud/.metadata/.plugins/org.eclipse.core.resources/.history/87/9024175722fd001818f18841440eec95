@@ -1,0 +1,14 @@
+server:
+  port: 8381
+
+
+
+spring:
+  application:
+    name: conf-server
+  cloud:
+       config:
+             uri: https://github.com/forezp/SpringcloudConfig/
+             profile: respo
+             label: master
+                      

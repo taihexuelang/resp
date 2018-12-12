@@ -1,0 +1,41 @@
+!SESSION 2018-12-11 15:12:21.171 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data E:\eclipse\F\项目经验\springCloud -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-11 15:12:37.296
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-12-11 17:20:15.036
+!MESSAGE The POM for org.springframework.cloud:spring-cloud-dependencies:pom:Dalston.RC1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-12-11 17:20:15.188
+!MESSAGE The POM for org.springframework.cloud:spring-cloud-dependencies:pom:Dalston.RC1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-12-11 17:20:36.683
+!MESSAGE The POM for org.springframework.cloud:spring-cloud-dependencies:pom:Dalston.RC1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-12-11 17:20:37.741
+!MESSAGE The POM for org.springframework.cloud:spring-cloud-dependencies:pom:Dalston.RC1 is missing, no dependency information available
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-12-11 17:30:00.214
+!MESSAGE Invalid ZIP archive: C:\Users\Administrator\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-12-11 17:30:01.998
+!MESSAGE Invalid ZIP archive: C:\Users\Administrator\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-12-11 17:31:12.725
+!MESSAGE Invalid ZIP archive: C:\Users\Administrator\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-12-11 17:33:16.458
+!MESSAGE Invalid ZIP archive: C:\Users\Administrator\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-12-11 17:33:49.396
+!MESSAGE Invalid ZIP archive: C:\Users\Administrator\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar

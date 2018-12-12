@@ -1,0 +1,8 @@
+package center.wf;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value = "service-hi1")
+public interface fes {
+	public Object get();
+}

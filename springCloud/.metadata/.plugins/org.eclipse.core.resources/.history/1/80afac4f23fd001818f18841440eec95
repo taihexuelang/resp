@@ -1,0 +1,14 @@
+server:
+  port: 8382
+
+
+
+spring:
+  application:
+    name: conf-client
+  cloud:
+       config:
+             uri: http://localhost:8381/
+             profile: dev
+             label: respo
+                      

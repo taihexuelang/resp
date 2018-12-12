@@ -1,0 +1,8 @@
+server:
+  port: 8381
+
+
+
+spring:
+  application:
+    name: conf-server
